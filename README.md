@@ -62,3 +62,5 @@ https://engineering.mixpanel.com/safely-rewriting-mixpanels-highest-throughput-s
 
 - Canary citado aqui
 https://www.infoq.com/presentations/airbnb-services-scalability/ 
+
+Use o hadolint https://github.com/hadolint/hadolint
