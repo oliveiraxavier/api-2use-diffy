@@ -1,0 +1,12 @@
+node_modules
+dist
+test
+.eslint*.js
+.gitignore
+.prettierrc
+.nvmrc
+README.md
+eslint.config.mjs
+.eslintignore
+.eslint.config.js
+Dockerfile
